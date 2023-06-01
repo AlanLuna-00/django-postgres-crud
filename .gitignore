@@ -1,0 +1,6 @@
+# add ignore files 
+venv/
+*.pyc
+*.pyo
+__pycache__/
+```
