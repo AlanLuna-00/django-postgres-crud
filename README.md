@@ -2,4 +2,4 @@
 
 Aprendiendo Django con Postgres
 
-Alan Luna &copy; 2020
+Alan Luna &copy; 2023
